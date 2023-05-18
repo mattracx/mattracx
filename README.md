@@ -4,9 +4,10 @@
 - 🔧 I have to admit that my primary job keeps me busy for at least 6 months a year, so, lately it has been a bit difficult to keep up with the incredibly fast growing technologies (eg AI/ML and such). 
 - 🪐 Although, I still try my best to keep up and, here on GitHub you can see a bit of my personal space and some repositories that I have decided to keep public.
 
-### Buy me a beer and support my work 🍺
+### Buy me a beer or a pizza and support my work  🍺🍕
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MattRaciti?country.x=IT&locale.x=en_US)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mattracx)
+[![Stripe](https://img.shields.io/badge/Stripe-5C2D91?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/4gw29Nb3c7SV1CU144)
 
 <!--
 **mattracx/mattracx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
