@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-- 🛳️ I am a Refrigeration Engineer at Carnival Cruise Line and I work onboard cruise ships, in charge of the entire HVAC-R plant of the ship, crusing mostly around the US, Caribbean Islands & Australia.
+- 🛳️ I am a HVAC-Refrigeration Engineer at Carnival Cruise Line and I work onboard cruise ships, in charge of the entire HVAC-R plant of the ship, crusing mostly around the US, Caribbean Islands & Australia.
 - 💻 DevOps are my side gig though, since Full Stack Development has always being my passion and my field of study.
 - 🔧 I have to admit that my primary job keeps me busy for at least 6 months a year, so, lately it has been a bit difficult to keep up with the incredibly fast growing technologies (eg AI/ML and such). 
 - 🪐 Although, I still try my best to keep up and, here on GitHub you can see a bit of my personal space and some repositories that I have decided to keep public.
